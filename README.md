@@ -12,5 +12,7 @@ Model building should take minutes to run, depends on how large your corpus is.
 
 ```
 python /path-to-repo/application.py
-
+```
 And the flask application will run
+
+Note: The entire BBC data is not uploaded but you can scrape it and get it
